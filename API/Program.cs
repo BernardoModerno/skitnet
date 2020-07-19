@@ -31,7 +31,10 @@ dotnet new sln
 dotnet new webapi -o API
 dotnet sln add API
 dotnet sln list
-
+dotnet run
+dotnet dev-certs https
+dotnet dev-certs https -t
+dotnet watch run
 
 
 */
