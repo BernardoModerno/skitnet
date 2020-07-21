@@ -1,11 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace API
 {
@@ -38,6 +32,6 @@ dotnet watch run
 dotnet tool install --global dotnet-ef --version 3.1.6
 foi adicionado o microsoft.entityframeworkcore.design no nuget
 dotnet ef migrations add InicialCreate -o Data/Migrations
-
+dotnet ef database update
 
 */
