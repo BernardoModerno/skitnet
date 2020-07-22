@@ -33,5 +33,6 @@ dotnet tool install --global dotnet-ef --version 3.1.6
 foi adicionado o microsoft.entityframeworkcore.design no nuget
 dotnet ef migrations add InicialCreate -o Data/Migrations
 dotnet ef database update
+dotnet watch run
 
 */
