@@ -5,7 +5,7 @@ using Core.Interfaces;
 
 namespace Infrastructure.Data
 {
-    public interface ProductRepository : IProductRepository
+    public class ProductRepository : IProductRepository
     {
          public Task<Product> GetProductByIdAsync(int id)
         {
