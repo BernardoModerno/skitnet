@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Qlinfa9gK1d0Jkpl39xSWfKaPFrPuQJc6Fi432ePF1pYM4wlRHhNk4eBfKx1uBr1LCMHXff8TC5TrgCv14zPg==",
+  "dgSpecHash": "Jh2XHzkCSstlnovko1Ljqn3MtYMy4lZelXQxQEoU6n644Se0UwjQwizzLlAv6+m0fDMzuL8lqCSgtuq/b57wLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
