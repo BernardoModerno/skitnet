@@ -1480,11 +1480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1503,8 +1503,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Core\\Core.csproj": {
-              "projectPath": "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Core\\Core.csproj"
+            "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\Core\\Core.csproj"
             }
           }
         }

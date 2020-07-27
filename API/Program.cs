@@ -48,5 +48,8 @@ dotnet restore
 dotnet build
 cd API
 dotnet watch run
+dotnet ef database drop -p Infrastructure -s API
+dotnet ef migrations remove -p Infrastructure -s API
+dotnet ef migrations add InitialCreate -p Infrastructure -s API -o Data/Migrations
 
 */
