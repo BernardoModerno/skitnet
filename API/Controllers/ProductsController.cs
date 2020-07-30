@@ -18,7 +18,6 @@ namespace API.Controllers
         public ProductsController(IProductRepository repo)
         {
             _repo = repo;
-
         }
 
         [HttpGet]
