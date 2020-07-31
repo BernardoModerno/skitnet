@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1////QhEi1zKQmrZL8RHtw3omc0synSfFBQbi75BZ2B+kNUjFVDnpt9aWga8yLwWISMBKalcN4NaN2HFr4Dd5Q==",
+  "dgSpecHash": "l8qg6B9k6dJysVLl2/vd3BRyOyi8qFbbcO503I7DGCBAzuxJZ50iyg5339fEeKaYrvd7W3mfRYTlrtP6izL3ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\user\\Desktop\\dotnetangular\\skitnet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
